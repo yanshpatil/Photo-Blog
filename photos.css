@@ -1,0 +1,28 @@
+
+img {
+    /* width: 100px; */
+    /* check just using width made the images inline and a space bewteen each image but float made them sticked to each other */
+    
+    width: 30%;
+    margin: 1.66%;
+    
+}
+
+
+nav {
+    font-family: 'Raleway', sans-serif;
+    margin-left: 1.66%;
+    font-weight: 1.5em;
+    text-transform: uppercase;
+    border-bottom: 2px solid #f1f1f1;
+    width: 30%;
+    /* Width here for make the line just fit the first picture */
+    /* To make space between line & Text "Padding" */
+    padding: 1.2em 0;
+}
+
+
+/* .res {
+    height: 399px;
+    width: 399px;;
+} */
